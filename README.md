@@ -1,6 +1,3 @@
-# Teamplayer
-Chrissi, Danny, Basti und Sabine 
-
 Schreibe eine Funktion, die eine Liste von zufälligen Zahlen (random Zahlen) erstellt. Berechne anschließend den Durchschnitt dieser Zahlen mithilfe der `reduce`-Methode.
 **Schritte:**
 1. Erstelle eine Funktion, die eine Liste von Zufallszahlen generiert.
@@ -27,9 +24,3 @@ Schreibe eine Funktion, die eine Fetch-Anfrage an die folgende URL macht: `https
 3. Untersuche die Struktur der Antwort und zeige die Hunderassen im Konsolen-Log an.
 ---
 Viel Erfolg bei den Aufgaben!
-
-
-dog.ceodog.ceo
-Dog API
-Dog CEO's Dog API. Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image supplied by the Stanford Dogs Dataset. (274 kB)
-https://dog.ceo/dog-api/
